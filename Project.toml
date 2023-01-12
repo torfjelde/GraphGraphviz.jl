@@ -1,0 +1,7 @@
+name = "GraphGraphviz"
+uuid = "692621d9-3805-4619-b662-17f1a5556d87"
+authors = ["Tor Erlend Fjelde <tor.erlend95@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
