@@ -3,5 +3,10 @@ uuid = "692621d9-3805-4619-b662-17f1a5556d87"
 authors = ["Tor Erlend Fjelde <tor.erlend95@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+FillArrays = "1a297f60-69ca-5386-bcde-b61e274b549b"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+
 [compat]
 julia = "1"
